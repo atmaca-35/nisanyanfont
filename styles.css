@@ -20,7 +20,7 @@ body {
 }
 
 /* searchbox ve ghosttext için özel font ayarı */
-.search-box input, .ghost-text {
+.search-box input, .ghost-texti .word-count, .error, .error-message {
     font-family: 'Poppins', sans-serif;
 }
 
@@ -84,7 +84,7 @@ main {
 }
 
 /* Diğer metinler için font ayarı */
-.result, .word-count, .error, .error-message, .selected-word-meanings, .tooltip, .clickable-word {
+.result, .selected-word-meanings, .tooltip, .clickable-word {
     font-family: Tahoma, -apple-system, "Helvetica Neue", Helvetica, Roboto, sans-serif;
 }
 
